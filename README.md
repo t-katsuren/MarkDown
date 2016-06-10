@@ -1,4 +1,4 @@
 MarkDown Study
 ======================
-GitHubでMarkDownを学ぶ為のリポジトリ
+GitHubでMarkDownを学ぶ為のリポジトリ  
 IssuesやらWikiやら
